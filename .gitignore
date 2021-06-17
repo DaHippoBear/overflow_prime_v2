@@ -1,0 +1,5 @@
+# Project exclude paths
+/menu/target/
+/minilabs/target/
+/myconnect/target/
+/todo/target/
